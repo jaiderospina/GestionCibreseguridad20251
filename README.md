@@ -36,7 +36,7 @@ El Comité de Riesgo está reevaluando su postura de ciberseguridad ante el aume
   - Si el banco tiene un *coeficiente de resiliencia cibernética* del 85% (frente al 90% del sector), ¿qué brechas en su infraestructura limitan su capacidad?  
 
 - **Cualitativo:**  
-  - ¿Su estructura de gobierno (CISO directamente reportando a la junta) le permite responder rápidamente a amenazas?  
+  - ¿Su estructura de gobierno (**CISO** directamente reportando a la junta) le permite responder rápidamente a amenazas?  
 
 #### **2. Tolerancia al Riesgo Cibernético (¿Cuánto riesgo ESTÁ DISPUESTO a aceptar?)**  
 - **Cuantitativo:**  
