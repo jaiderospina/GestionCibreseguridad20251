@@ -67,7 +67,7 @@ El Comité de Riesgo está reevaluando su postura de ciberseguridad ante el aume
 - **Cálculos clave:**  
   - **Fondo vs. Pérdidas Máximas:**  
     - USD 100M / USD 20M por incidente = **5 incidentes graves** antes de agotar reservas.  
-    - Pero la regulación exige mantener al menos USD 50M en liquidez → capacidad real: **2-3 incidentes/año**.  
+    - **Pero la regulación exige mantener al menos USD 50M en liquidez → capacidad real: **2-3 incidentes/año**.**  
   - **Resiliencia:**  
     - El 85% implica que el 15% de sus sistemas son vulnerables (ej.: APIs obsoletas). Mitigar esto costaría USD 15M (**según auditoría**).  
 
