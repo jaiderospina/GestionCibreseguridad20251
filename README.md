@@ -54,6 +54,11 @@ El Comité de Riesgo está reevaluando su postura de ciberseguridad ante el aume
 - **Cualitativo:**  
   - ¿Está dispuesto a sacrificar experiencia de usuario (ej.: autenticación multifactor estricta) por mayor seguridad?  
 
+4. **Objetivos del Banco:**  
+   - **Tolerancia al riesgo:** Máximo **1 incidente grave/año** (pérdida > USD 10M).  
+   - **Apetito:** Incrementar un 20% la banca digital, aceptando un aumento del **10% en riesgo cibernético**.  
+
+
 ---  
 
 ### **Bloque de Resolución y Justificación:**  
@@ -88,7 +93,8 @@ El Comité de Riesgo está reevaluando su postura de ciberseguridad ante el aume
 ---  
 
 ### **Conclusión Didáctica:**  
-Los estudiantes deben inferir que:  
+Perfil del riesgo del banco. 
+
 - **Capacidad:** Moderada (fondos limitados y resiliencia subóptima).  
 - **Tolerancia:** Baja (no acepta impacto operacional o reputacional grave).  
 - **Apetito:** **Selectivo** (asume riesgos calculados en innovación, pero con controles estrictos).  
@@ -100,10 +106,5 @@ Los estudiantes deben inferir que:
 
 ---  
 **Nota:** Este ejercicio integra métricas duras (costos, probabilidades) con aspectos blandos (cultura, prioridades estratégicas), reflejando decisiones reales en ciberseguridad bancaria.
-
-
-4. **Objetivos del Banco:**  
-   - **Tolerancia al riesgo:** Máximo **1 incidente grave/año** (pérdida > USD 10M).  
-   - **Apetito:** Incrementar un 20% la banca digital, aceptando un aumento del **10% en riesgo cibernético**.  
 
 
