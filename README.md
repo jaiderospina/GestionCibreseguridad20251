@@ -1,6 +1,69 @@
 # GestionCiberseguridad20251
 
-## Ejercicio en Clase.
+## Apetito Riesgo Vs Capacidad del Riesgo Vs Tolerncia del Riesgo
+<table>
+    <tbody>
+        <tr>
+            <td style="border-right:.5pt solid black;height:15.0pt;width:552pt;" aling=center colspan="4">Apetito, Tolerancia y Capacidad al Riesgo</td>
+        </tr>
+        <tr>
+            <td style="border-top-style:none;height:30.0pt;width:143pt;">Criterio</td>
+            <td style="border-left-style:none;border-top-style:none;width:131pt;">Apetito al riesgo en ciberseguridad</td>
+            <td style="border-left-style:none;border-top-style:none;width:113pt;">Tolerancia al riesgo en ciberseguridad</td>
+            <td style="border-left-style:none;border-top-style:none;width:165pt;">Capacidad al riesgo en ciberseguridad</td>
+        </tr>
+        <tr>
+            <td style="border-top-style:none;height:105.0pt;width:143pt;">Definición</td>
+            <td style="border-left-style:none;border-top-style:none;width:131pt;">Es el nivel de riesgo que una organización está dispuesta a aceptar para alcanzar sus objetivos estratégicos.</td>
+            <td style="border-left-style:none;border-top-style:none;width:113pt;">Es el nivel de riesgo que una organización puede soportar sin afectar significativamente su operación o estabilidad.</td>
+            <td style="border-left-style:none;border-top-style:none;width:165pt;">Es la cantidad máxima de riesgo que una organización puede asumir en función de sus recursos, infraestructura y capacidades.</td>
+        </tr>
+        <tr>
+            <td style="border-top-style:none;height:90.0pt;width:143pt;">Enfoque</td>
+            <td style="border-left-style:none;border-top-style:none;width:131pt;">Enfocado en el "deseo" o intención de asumir riesgos con base en la estrategia y visión organizacional.</td>
+            <td style="border-left-style:none;border-top-style:none;width:113pt;">Enfocado en la "resistencia" o margen de soporte al impacto de los riesgos antes de generar una afectación crítica.</td>
+            <td style="border-left-style:none;border-top-style:none;width:165pt;">Enfocado en la "habilidad" objetiva para manejar los riesgos con recursos disponibles.</td>
+        </tr>
+        <tr>
+            <td style="border-top-style:none;height:75.0pt;width:143pt;">Base de decisión</td>
+            <td style="border-left-style:none;border-top-style:none;width:131pt;">Decisiones estratégicas alineadas con la visión y misión.</td>
+            <td style="border-left-style:none;border-top-style:none;width:113pt;">Decisiones operativas y tácticas basadas en la resiliencia al riesgo.</td>
+            <td style="border-left-style:none;border-top-style:none;width:165pt;">Decisiones técnicas y financieras basadas en capacidades tangibles (infraestructura, presupuesto, personal capacitado, etc.).</td>
+        </tr>
+        <tr>
+            <td style="border-top-style:none;height:60.0pt;width:143pt;">Relación con el riesgo</td>
+            <td style="border-left-style:none;border-top-style:none;width:131pt;">Define cuánto riesgo está dispuesto a aceptar para alcanzar objetivos (proactivo).</td>
+            <td style="border-left-style:none;border-top-style:none;width:113pt;">Define cuánto riesgo puede soportar antes de tomar acciones correctivas (reactivo).</td>
+            <td style="border-left-style:none;border-top-style:none;width:165pt;">Define cuánto riesgo puede manejar antes de que se vuelvan insostenibles las operaciones.</td>
+        </tr>
+        <tr>
+            <td style="border-top-style:none;height:105.0pt;width:143pt;">Ejemplo</td>
+            <td style="border-left-style:none;border-top-style:none;width:131pt;">Una empresa decide adoptar tecnologías emergentes con cierto riesgo de ciberataques para innovar y ganar ventaja competitiva.</td>
+            <td style="border-left-style:none;border-top-style:none;width:113pt;">La misma empresa, aunque dispuesta a innovar, establece que no tolerará interrupciones superiores a 12 horas por ciberataques.</td>
+            <td style="border-left-style:none;border-top-style:none;width:165pt;">La empresa tiene recursos financieros y tecnológicos para gestionar interrupciones de hasta 5 días en caso de un ataque cibernético.</td>
+        </tr>
+        <tr>
+            <td style="border-top-style:none;height:75.0pt;width:143pt;">Flexibilidad</td>
+            <td style="border-left-style:none;border-top-style:none;width:131pt;">Alta flexibilidad, ya que está influida por la estrategia y los objetivos organizacionales.</td>
+            <td style="border-left-style:none;border-top-style:none;width:113pt;">Moderada flexibilidad, ya que depende de la percepción del impacto y las acciones necesarias.</td>
+            <td style="border-left-style:none;border-top-style:none;width:165pt;">Baja flexibilidad, ya que está determinada por factores objetivos y limitaciones físicas o económicas.</td>
+        </tr>
+        <tr>
+            <td style="border-top-style:none;height:66.75pt;width:143pt;">Semejanza</td>
+            <td style="border-left-style:none;border-right:.5pt solid black;width:409pt;" colspan="3">* Todos son conceptos esenciales en la gestión de riesgos y están interrelacionados para tomar decisiones en ciberseguridad.<br>* Todos buscan equilibrar riesgos y beneficios dentro de las capacidades y objetivos de la organización.</td>
+        </tr>
+        <tr>
+            <td style="border-top-style:none;height:30.0pt;width:143pt;">Diferencia clave</td>
+            <td style="border-left-style:none;border-top-style:none;width:131pt;">"Qué estamos dispuestos a arriesgar".</td>
+            <td style="border-left-style:none;border-top-style:none;width:113pt;">"Cuánto podemos soportar".</td>
+            <td style="border-left-style:none;border-top-style:none;width:165pt;">"Cuánto podemos manejar".</td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## Ejercicio en Clase Apetito-Tolerancia-Capacidad **RIESGO**.
 
 ### **Ejercicio Dialéctico: Gestión de Riesgo Cibernético en "Banco Digital Seguro S.A."**  
 
