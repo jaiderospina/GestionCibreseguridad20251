@@ -1,6 +1,6 @@
 # GestionCiberseguridad20251
 
-## Apetito Riesgo Vs Capacidad del Riesgo Vs Tolerncia del Riesgo
+## Apetito Riesgo Vs Capacidad del Riesgo Vs Tolerancia del Riesgo
 <table>
     <tbody>
         <tr>
